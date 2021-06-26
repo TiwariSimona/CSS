@@ -38,9 +38,7 @@
             text-shadow: 3px 3px 2px black;
             text-align: center;
             
-            
         }
-
         p{
             line-height: 3;
             line-height: 50;
@@ -55,7 +53,6 @@
     <h1>This is a heading</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, aperiam? Omnis eos quasi, perspiciatis, vero reprehenderit voluptatibus eum ipsum neque numquam autem corrupti ratione illum rem reiciendis a quia placeat libero, beatae repudiandae aliquid? Praesentium minima aperiam ratione placeat blanditiis exercitationem odit ullam a! Laboriosam corporis iusto facere iure voluptate.</p>
 </div>
-    <p>This is a paragraph</p>
-    
+    <p>This is a paragraph</p>  
 </body>
 </html>
