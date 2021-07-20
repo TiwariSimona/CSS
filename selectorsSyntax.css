@@ -45,6 +45,7 @@ li[class="a"]{
 li[class~="a"]{
     color: coral;
 }
+
 *{
     list-style-type: none;
 }
