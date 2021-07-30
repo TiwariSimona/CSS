@@ -1,0 +1,17 @@
+<style>
+        .box-set,.box{
+            border-radius: 6px;
+        }
+        .box-set{
+            background: whitesmoke;
+        }
+        .box{
+            background: #2db34a;
+            position:sticky;
+            height: 80px;
+            width: 80px;
+            text-align: center;
+            margin: 20px;
+        }
+        
+    </style>
